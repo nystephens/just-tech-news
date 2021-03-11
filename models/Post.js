@@ -34,7 +34,7 @@ Post.init(
             type: DataTypes.INTEGER,
             allowNull: false,
             primaryKey: true,
-            autoIncrement: true,
+            autoIncrement: true
         },
         title: {
             type: DataTypes.STRING,
